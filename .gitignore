@@ -1,0 +1,4 @@
+.history
+node_modules
+dbschema/edgeql-js
+dbschema/migrations
