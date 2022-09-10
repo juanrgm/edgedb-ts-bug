@@ -3,6 +3,8 @@
 ## install
 
 ```sh
+git clone git@github.com:juanrgm/edgedb-ts-bug.git
+cd edgedb-ts-bug
 pnpm i
 edgedb project init --non-interactive
 edgedb migration create
